@@ -109,6 +109,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 6. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
 7. Context versus Prior Knowledge in Language Models, **ACL 2024**, [[Paper](https://arxiv.org/pdf/2404.04633)]
 8. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
+9. ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.12076)]
 
 ### I-iii: (Mitigating) Solutions
 
@@ -160,6 +161,7 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 3. Attacking open-domain question answering by injecting misinformation, _Pan et al._, **AACL 2023**, [[Paper](https://aclanthology.org/2023.ijcnlp-main.35.pdf)]
 4. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
 5. Tug-of-war between knowledge: Exploring and resolving knowledge conflicts in retrieval-augmented language models, _Jin et al._, **LREC-COLING 2024**, [[Paper](https://arxiv.org/abs/2402.14409)]
+6. ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.12076)]
 
 #### Detection ability
 1. CDConv: A Benchmark for Contradiction Detection in Chinese Conversations, _Zheng et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.2/)]
@@ -215,6 +217,7 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 5. Benchmarking and improving generator-validator consistency of language models, _Li et al._, **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=phBS6YpTzC)]
 6. How pre-trained language models capture factual knowledge? a causal-inspired analysis, _Li et al._, **ACL 2022**, [[Paper](https://aclanthology.org/2022.findings-acl.136.pdf)]
 7. Impact of co-occurrence on factual knowledge of large language models, _Kang and Choi_, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.518.pdf)]
+8. ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.12076)]
 
 #### Latent Representation of Knowledge
 
