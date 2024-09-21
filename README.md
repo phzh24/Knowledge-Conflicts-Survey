@@ -1,5 +1,8 @@
 # 💥Knowledge Conflicts for LLMs: A Survey
 
+📢**News 9/21/2024: Our paper got accepted by EMNLP 2024 as a Main Conference Paper!**
+
+📢**We've missed your work? Contact [Rongwu](mailto:0xrwxu@gmail.com) directly!**
 
 This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). ➡️ [[中文介绍@机器之心]](https://mp.weixin.qq.com/s/y9-DwgNb3Yftgf_Ulf6yDQ)
 
@@ -20,7 +23,6 @@ Rongwu Xu<sup>1</sup>*, Zehan Qi<sup>1</sup>*, Zhijiang Guo<sup>2</sup>, Cunxian
  (* Equal Contribution)
 </p> 
 
-📢**We've missed your work? Contact [Rongwu](mailto:0xrwxu@gmail.com) directly!**
 
 ## 📝 Citation
 
