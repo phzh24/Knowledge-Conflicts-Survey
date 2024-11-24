@@ -110,7 +110,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 5. Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.16032)]
 6. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
 7. Context versus Prior Knowledge in Language Models, **ACL 2024**, [[Paper](https://arxiv.org/pdf/2404.04633)]
-8. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
+8. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **ACL 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
 9. ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM, _Su et al._, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.12076)]
 
 ### I-iii: (Mitigating) Solutions
@@ -137,7 +137,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 ##### Inference-time intervention (e.g., tuning heads)
 
 1. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
-2. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
+2. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **ACL 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
 
 ## Type II: Inter-context conflict
 
